@@ -1,0 +1,2 @@
+# smartHouse
+An unfinished project
